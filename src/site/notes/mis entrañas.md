@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mis-entranas/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/mis-entranas/"}
 ---
 
 mis entrañas
