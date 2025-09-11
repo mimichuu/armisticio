@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/armisticio/","tags":["gardenEntry"]}
 ---
 
-armisticio
+## armisticio
 
-[[mis entrañas\|mis entrañas]]
+[[]]
+[[artworks que nunca mostré\|artworks que nunca mostré]]
